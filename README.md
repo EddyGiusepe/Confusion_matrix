@@ -4,7 +4,7 @@ A Matriz de Confusão é uma das métricas de avaliação do desempenho das máq
 É utilizado em aprendizado supervisionado, ou seja em modelos de classificação: KNN, Naive Bayes, SVM, Decision trees e Logistic regression.
 
 
-DETECÇÃO DA DOENÇA DE PARKINSON
+# DETECÇÃO DA DOENÇA DE PARKINSON
 
 Neste projeto de aprendizado de máquina com Python, aprenderemos a detectar a presença de doença de Parkinson em indivíduos usando vários fatores, variáveis, 
 atributos... Usaremos um XGBClassifier do XGBoost (algoritmo de classificação) como algoritmo de Machine Learning.
