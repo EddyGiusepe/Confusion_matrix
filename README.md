@@ -13,5 +13,5 @@ Os Dados de Parkinson são da UCI: https://archive.ics.uci.edu/ml/datasets/Parki
 
 Este conjunto de Dados é composto por uma gama de medições biomédicas de voz de  31  pessoas,  23  com doença de Parkinson (DP). 
 cada coluna da tabela é uma medida de voz particular, e cada linha corresponde a uma de  195  vozes registro dessas pessoas (coluna "nome"). 
-O objetivo principal dos Dados é discriminar pessoas saudáveis daquelas com DP, de acordo com o "status" coluna que é definida como  0  para integra e  1  
-para portador de Parkinson.
+O objetivo principal dos Dados é discriminar pessoas saudáveis daquelas com DP, de acordo com o "status" coluna que é definida como  0  para 
+integra e 1 para portador de Parkinson.
